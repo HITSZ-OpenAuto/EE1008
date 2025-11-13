@@ -1,0 +1,201 @@
+ID: "EE1008"
+SimilarID: []
+Name: "模拟电子技术实验"
+CourseProperty:
+  - Major:
+      - Year: "2019_2020"
+        Name: [ "通信", "电气", "自动化" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1008"
+    CourseName: "模拟电子技术实验"
+    Credit: "1.0"
+    CourseHour: "24.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "MOOC预习题"
+        Percentage: ""
+      - Name: "按时完成实验"
+        Percentage: ""
+      - Name: "报告分数"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "硬件实验"
+        Hour: "12"
+      - Name: "仿真实验"
+        Hour: "8"
+      - Name: "混合实验"
+        Hour: "4"
+
+  - Major:
+      - Year: "2020_2021"
+        Name: [ "电信", "电气", "通信（第二学位）", "自动化" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1008"
+    CourseName: "模拟电子技术实验"
+    Credit: "1.0"
+    CourseHour: "24.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "MOOC预习题"
+        Percentage: ""
+      - Name: "按时完成实验"
+        Percentage: ""
+      - Name: "报告分数"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "硬件实验"
+        Hour: "12"
+      - Name: "仿真实验"
+        Hour: "8"
+      - Name: "混合实验"
+        Hour: "4"
+
+  - Major:
+      - Year: "2021_2022"
+        Name: [ "电气", "光电", "通信", "自动化", "通信（第二学位）" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1008"
+    CourseName: "模拟电子技术实验"
+    Credit: "1.0"
+    CourseHour: "24.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "MOOC预习题"
+        Percentage: ""
+      - Name: "按时完成实验"
+        Percentage: ""
+      - Name: "报告分数"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "硬件实验"
+        Hour: "12"
+      - Name: "仿真实验"
+        Hour: "8"
+      - Name: "混合实验"
+        Hour: "4"
+
+  - Major:
+      - Year: "2022_2023"
+        Name: [ "电气", "光电", "通信", "通信（第二学位）", "自动化" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1008"
+    CourseName: "模拟电子技术实验"
+    Credit: "1.0"
+    CourseHour: "24.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "MOOC预习题"
+        Percentage: ""
+      - Name: "按时完成实验"
+        Percentage: ""
+      - Name: "报告分数"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "硬件实验"
+        Hour: "12"
+      - Name: "仿真实验"
+        Hour: "8"
+      - Name: "混合实验"
+        Hour: "4"
+
+  - Major:
+      - Year: "2023_2024"
+        Name: [ "电气", "光电", "通信", "自动化" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1008"
+    CourseName: "模拟电子技术实验"
+    Credit: "1.0"
+    CourseHour: "24.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "MOOC预习题"
+        Percentage: ""
+      - Name: "按时完成实验"
+        Percentage: ""
+      - Name: "报告分数"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "硬件实验"
+        Hour: "12"
+      - Name: "仿真实验"
+        Hour: "8"
+      - Name: "混合实验"
+        Hour: "4"
+
+  - Major:
+      - Year: "2024_2025"
+        Name: []
+        Degree: "本"
+    GradeSemesters:
+      - Grade: ""
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "EE1008"
+    CourseName: "模拟电子技术实验"
+    Credit: "1.0"
+    CourseHour: "24.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "MOOC预习题"
+        Percentage: ""
+      - Name: "按时完成实验"
+        Percentage: ""
+      - Name: "报告分数"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "硬件实验"
+        Hour: "12"
+      - Name: "仿真实验"
+        Hour: "8"
+      - Name: "混合实验"
+        Hour: "4"
