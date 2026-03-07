@@ -1,4 +1,6 @@
 # EE1008 - 模拟电子技术实验
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![MOOC预习题 + 按时完成实验（不按时完成，则适当扣分）+ 报告分数（无考试）](https://img.shields.io/badge/MOOC预习题%20+%20按时完成实验（不按时完成，则适当扣分）+%20报告分数（无考试）--wheat)
@@ -9,19 +11,29 @@
 ## 授课教师
 
 - 实验中心教师组(集体)
+  <!-- TOML-ITEM: id="review-实验中心教师组(集体)-1" -->
   - 授课教师：实验中心教师+（部分班级）理论课教师+二名本科生助教。
     > 文 / [Oliver Wu](https://github.com/OliverWu515)
 
 ## 在线资源
+<!-- TOML-SECTION: title="在线资源" -->
+
+<!-- TOML-ITEM: id="item-在线资源-1" -->
 
 - [吴川斌的个人博客 (Cadence软件下载)](https://www.mr-wu.cn/)：站内搜索 Cadence 即可。仿真软件使用 OrCAD Cadence 16.6，电路实验中已经使用过。
 
 ## 课程内容
+<!-- TOML-SECTION: title="课程内容" -->
+
+<!-- TOML-ITEM: id="item-课程内容-1" -->
 
 老师会先讲一小会儿原理和注意事项（需要听一下，因为有些器材的使用方法不那么直观）。
 然后就自己做实验，有问题可以问助教。
 
 ## 关于实验
+<!-- TOML-SECTION: title="关于实验" -->
+
+<!-- TOML-ITEM: id="item-关于实验-1" -->
 
 （21级情况）前4个实验是2学时，实验5-实验7是4学时，最后一节4学时的课完成两个实验：实验8和实验9。
 
@@ -29,6 +41,9 @@
 - 对于硬件+仿真实验，有仿真预习，需要提前做好，上课需检查。
 
 ## MOOC与作业
+<!-- TOML-SECTION: title="MOOC与作业" -->
+
+<!-- TOML-ITEM: id="item-MOOC与作业-1" -->
 
 有 MOOC 预习题，答案整理中。不过十分建议大家先独立完成，其中一些基本概念比较重要。部分题目答案有问题，会标出。
 实验报告在中国大学 MOOC 网上提交，无需提交纸质版。
