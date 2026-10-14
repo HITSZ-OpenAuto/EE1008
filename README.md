@@ -1,9 +1,5 @@
 # EE1008 - 模拟电子技术实验
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![MOOC预习题 + 按时完成实验（不按时完成，则适当扣分）+ 报告分数（无考试）](https://img.shields.io/badge/MOOC预习题%20+%20按时完成实验（不按时完成，则适当扣分）+%20报告分数（无考试）--wheat)
 
 对于硬件+仿真实验，有仿真预习，需要提前做好，上课需检查。
 对于含有硬件实验的项目，接线时务必注意电容接法、共地问题等。
